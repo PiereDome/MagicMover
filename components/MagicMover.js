@@ -1,5 +1,5 @@
 var React from = require('react');
-import ReactDOM = require('react-dom');
+var ReactDOM = require('react-dom');
 
 var MagicMover = React.createClass({
   getInitialState: function(){
