@@ -11,5 +11,9 @@
     "animation"
   ],
   "author": "Brian Pedersen <brianhpedersen@gmail.com> (http://github.com/PiereDome)",
-  "license": "ISC"
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^0.13.3",
+    "react-dom": "^0.13.3"
+  }
 }
